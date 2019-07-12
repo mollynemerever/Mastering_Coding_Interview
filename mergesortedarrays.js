@@ -34,3 +34,6 @@ function mergeSorted(array1, array2) {
 }
 
 console.log(mergeSorted(array1, array2));
+
+//O(n) linear run time
+//O(1) linear space complexity bc output not any larger than the input
