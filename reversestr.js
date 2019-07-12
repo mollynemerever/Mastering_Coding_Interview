@@ -15,3 +15,6 @@ function reverseString(str) {
 }
 
 console.log(reverseString(str));
+
+//O(n) time - linear time depends on how long str is
+//O(1) space complexity - no added memory needed
